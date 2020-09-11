@@ -1,0 +1,6 @@
+name: "TicTacToe"
+author: "dada"
+version: "0.1.0"
+main: "com.dada.TicTacToe"
+info: ""
+depends: []
